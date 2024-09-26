@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Early stage impact investor, helping promising startups change their trajectories. Most recently handled early stage investments at the World Food Programme Innovation Accelerator. Focus areas\: Livelihood improvement, Emergency Response, Supply Chain, Nutrition, FinTech, agTech. Over 14 years' experience in building and running scalable businesses. Proven record in startup environments, and nurturing fledgling teams to success. 
+bio: Early stage impact investor, helping promising startups change their trajectories.
 
 
 interests:
@@ -66,5 +66,6 @@ highlight_name: false
 user_groups:
   - Principals
 ---
+Most recently handled early stage investments at the World Food Programme Innovation Accelerator. Focus areas: Livelihood improvement, Emergency Response, Supply Chain, Nutrition, FinTech, agTech. Over 14 years' experience in building and running scalable businesses. Proven record in startup environments, and nurturing fledgling teams to success. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
