@@ -40,6 +40,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/hanishavaswani/
   - icon: envelope
     icon_pack: fas
     link: 'mailto:test@example.org'
@@ -68,4 +71,4 @@ user_groups:
 ---
 Most recently handled early stage investments at the World Food Programme Innovation Accelerator. Focus areas: Livelihood improvement, Emergency Response, Supply Chain, Nutrition, FinTech, agTech. Over 14 years' experience in building and running scalable businesses. Proven record in startup environments, and nurturing fledgling teams to success. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Invested $3.8 mn a year in early-stage startups globally at the United Nations World Food Programme Innovation Accelerator, impacting over 1.5 mn people worldwide. Formerly been a product manager and digital marketer at MakeMyTrip, TataCLiQ, and Airtel Money.
