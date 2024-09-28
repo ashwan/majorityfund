@@ -8,10 +8,12 @@ sections:
   - block: hero
     design:
       background:
-        image: welcome.jpg
-        brightness: 0.6
-        size: cover
-        position: center
+        image:
+          filename: welcome.jpg
+          filters:
+            brightness: 0.6
+          size: cover
+          position: center
     content:
       image:
         filename: logo.png
