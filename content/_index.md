@@ -6,16 +6,17 @@ type: landing
 
 sections:
   - block: hero
+    design:
+      background:
+        image: welcome.jpg
+        brightness: 0.6
+        size: cover
+        position: center
     content:
-      title: Majority
-      subtitle: Scaling Impact
       image:
         filename: logo.png
         position: center
-      background:
-        image:
-          filename: welcome.jpg
-      text:
+      text: Scaling Impact
   - block: markdown
     content:
       title: Thesis
@@ -50,11 +51,12 @@ sections:
       columns: '1'
   
   - block: markdown
+    id: team
     content:
-      title:
+      title: Team
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./team/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
 ---
