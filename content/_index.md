@@ -7,10 +7,14 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Majority |
-        Scaling Impact
+      title: Majority
+      subtitle: Scaling Impact
       image:
-        filename: welcome.jpg
+        filename: logo.png
+        position: center
+      background:
+        image:
+          filename: welcome.jpg
       text:
   - block: markdown
     content:
